@@ -1,0 +1,12 @@
+{
+  "name": "shopbackseotool", 
+  "version": "0.0.2",
+  "description": "This package can scan a HTML file and show all of the SEO defects",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Eason Wen <jossisgood@gmail.com>",
+  "repository" : {
+  "type" : "git",
+    "url" : "https://github.com/EasonWen/shopbackseo.git"
+  }
+}
