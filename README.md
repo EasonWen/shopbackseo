@@ -6,7 +6,7 @@
 
  node app.js strong=1 h1=2 url=http://www.google.com
  
- node app.js strong=1 h1=2 url=input.html
+ node app.js strong=1 h1= url=input.html
 
 ------------------------------------------------------------ 
 *Step1 : 讀取 input.html 
